@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "Shop Bat",
+  "version": "1.0.0",
+  "description": "Price Comparision on Online Shopping Sites",
+  
+  "browser_action":
+  {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html",
+    "default_title": "Shop Bat : Click me to check the current prices of the products."
+  },
+  
+  "icons" : {
+    "16" : "icon.png",
+    "48" : "icon.png",
+    "128" : "icon.png"
+  }
+}

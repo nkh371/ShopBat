@@ -1,0 +1,58 @@
+body
+{
+    background-color: #1a0d00;
+    color: white;
+    text-align: center;
+}
+hr#header
+{
+    border: 2px solid orange;
+}
+hr#footer
+{
+    border-color: orange;
+}
+#center
+{
+    padding: 20px;
+}
+#icon
+{
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+#search
+{
+    padding-top: 30px;
+}
+#search_bar
+{
+    background-color: #1a0d00;
+    color: white;
+    font-size: 20px;
+    width: 500px;
+    height: 35px;
+    border-radius: 3px;
+}
+#search_btn
+{
+    height: 35px;
+    border-radius: 3px;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+}
+.row
+{
+    text-align: left;
+    font-size: 16px;
+}
+#nav
+{
+    font-size: 20px;
+}
+#tag_line
+{
+    font-size: 18px;
+    color: orange;
+}
