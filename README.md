@@ -1,4 +1,4 @@
-#ShopBat lets you compare the price of the product from various websites in a real time.
+# ShopBat lets you compare the price of the product from various websites in a real time.
 
 Steps to be done-->(On linux OS)
 1. Load the extension in chrome, <a href = "https://www.cnet.com/how-to/how-to-install-chrome-extensions-manually/" > click here </a>
