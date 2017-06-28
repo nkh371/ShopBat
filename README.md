@@ -13,7 +13,7 @@ Just in case step 3 still does not, <a href = "https://askubuntu.com/questions/6
 4. Start the server, by following commands
     $ sudo /opt/lampp/lampp start
 5. Enter localhost in browser, then click on Final Server, then on search.php.
-6. Run the python script named price.py in background.
+6. Run the python script named Final Server/price.py in background.
 7. Search any item in searchbox. Wait for 8-10 seconds depending on internet speed and get your   		results   in extension.
 
 
